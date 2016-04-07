@@ -1,0 +1,14 @@
+layout_spectrum: 0.3086029
+typography_spectrum: 0.661499
+color:
+  saturation: 0.1055277
+  lightness: 0.2085747
+  brandStrength: 0.271228
+  rhythmicContrast: 0.8019316
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: UXwtf
